@@ -1,7 +1,3 @@
-//
-// Created by Максим Голиш on 21/04/2020.
-//
-
 #ifndef PROG2_7_ITERATOR_CIRCULARBUFFER_H
 #define PROG2_7_ITERATOR_CIRCULARBUFFER_H
 
