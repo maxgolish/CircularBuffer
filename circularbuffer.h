@@ -1,6 +1,3 @@
-#ifndef PROG2_7_ITERATOR_CIRCULARBUFFER_H
-#define PROG2_7_ITERATOR_CIRCULARBUFFER_H
-
 #include <iterator>
 
 template <typename T>
@@ -110,5 +107,3 @@ public:
         array[capacity-1] = value;
     }
 };
-
-#endif //PROG2_7_ITERATOR_CIRCULARBUFFER_H
